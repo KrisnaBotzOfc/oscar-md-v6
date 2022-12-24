@@ -1,0 +1,3 @@
+{
+	"name": "KrisnaBotz Multi Device "
+}
