@@ -14,22 +14,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6288294276026'] //ur owner number
-global.ownername = "Krisna Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: ItzTopBridgTzy5" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
+global.vcardowner = ['6281269734000'] //ur owner number
+global.ownername = "VICENZI" //ur owner name
+global.developer = "VICENZI INC" //nama lu
+global.ytname = "YT: VICENZI" //ur yt chanel name
+global.socialm = "https://instagram.com/nyxcooll_" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/DPPWI9douG15qRRm5IuPxH"
 global.location = "Asia/Jakarta" //ur location
 
 //bot bomdy 
-global.owner = ['6288294276026'] //ur number
-global.ownernomer = "6288294276026" //ur number
-global.ownertag = '628871744663' //ur tag number
-global.premium = ['62871744663'] //ur premium number
-global.botname = 'KrisnaBotz Update' //ur bot name
-global.ownername = "Krisna 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
+global.owner = ['6281269734000'] //ur number
+global.ownernomer = "6281269734000" //ur number
+global.ownertag = '6281269734000' //ur tag number
+global.premium = ['6281269734000'] //ur premium number
+global.botname = 'VICENZI BOT' //ur bot name
+global.ownername = "VICENZI"
+global.linkz = "VIIII" //your theme url which will be displayed on whatsapp
 global.dana = "628871744663"
 global.pulsa = "628871744663"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
